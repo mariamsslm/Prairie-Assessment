@@ -1,0 +1,22 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+
+h2{
+    color:black;
+    font-family: initial;
+    font-size: 40px;
+}
+img{
+    margin: auto;
+    width:600px;
+    height:700px;
+}
